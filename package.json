@@ -1,0 +1,24 @@
+{
+  "name": "electroneekautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firal96/ElectroNeekAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firal96/ElectroNeekAutomation/issues"
+  },
+  "homepage": "https://github.com/Firal96/ElectroNeekAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0",
+    "eslint": "^8.32.0",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.3"
+  }
+}
